@@ -26,3 +26,4 @@ Finalmente, todos los resultados obtenidos fueron integrados en un dashboard int
 GitHub Docs. (s.f.). Administrar archivos en un repositorio. https://docs.github.com/es/repositories/working-with-files/managing-files
 Pandas documentation — pandas 2.3.2 documentation. (s/f). Pydata.org. Recuperado el 14 de septiembre de 2025, de https://pandas.pydata.org/docs/
 Microsoft Learn. (s.f.). Crear medidas en Power BI Desktop. https://learn.microsoft.com/es-es/power-bi/transform-model/desktop-tutorial-create-measures
+Chavan, R. (s.f.). How to choose the right chart to visualize your data. Medium. https://medium.com/@chavanrohit/how-to-choose-the-right-chart-to-visualize-your-data-8302c8b246f0
